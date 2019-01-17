@@ -46,7 +46,7 @@ To run the application execute the class
 This will start up the application in an embedded Tomcat server.   
 Make sure port 8080 is not used when running the application. 
 
-**Swagger URL : http://localhost:8080/api/v1/swagger-ui.htm**   
+**Swagger URL : http://localhost:8080/swagger-ui.html**   
 
 #### Checkstyle:
 I also added checkstyle using the google configuration, with a few suppressions
